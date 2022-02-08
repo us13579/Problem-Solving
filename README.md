@@ -1,5 +1,5 @@
 # Problem-Solving
 
-  ## SoftWare Expert Academy
+  ### SoftWare Expert Academy
 
-  ## Baekjoon Online Judge
+  ### Baekjoon Online Judge
