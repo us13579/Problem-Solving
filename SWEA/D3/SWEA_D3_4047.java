@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
  * @title 영준이의 카드 카운팅
  */
 
-public class SWAE_D3_4047 {
+public class SWEA_D3_4047 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
