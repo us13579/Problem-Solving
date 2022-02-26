@@ -3,13 +3,10 @@ package SWEA;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
 
 /***
  * @author us13579
- * @since 2022-02-26, 10 55
+ * @since 2022-02-26, 15분
  * @title 의석이의 세로로 말해요
  */
 
@@ -36,6 +33,7 @@ public class SWEA_D3_5356 {
                 }
             }
 
+            // 출력
             for(int i=0; i<15; i++){
                 for(int j=0; j<5; j++){
                     if(arr[j][i] != 0){
