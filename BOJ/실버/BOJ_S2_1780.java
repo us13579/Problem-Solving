@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 /**
  * 
  * @author us13579
- * @since 2022-03-22, 22 10
+ * @since 2022-03-22, 1시간
  * @title 종이의 개수
  *
  */
