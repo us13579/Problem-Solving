@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 /***
  * 
  * @author us13579
- * @since 2022-03-26, 113 0
+ * @since 2022-03-26, 50분
  * @title 곱셈
  *
  */
