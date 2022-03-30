@@ -37,7 +37,7 @@ public class BOJ_S3_15649 {
 		
 	}
 	
-	// 순열
+	// 순열 nPm
 	static void comb(int ind) {
 		// 기저조건
 		if(ind == M) {
