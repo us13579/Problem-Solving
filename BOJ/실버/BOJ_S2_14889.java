@@ -48,7 +48,7 @@ public class BOJ_S2_14889 {
 		team1 = new ArrayList<Integer>();
 		team2 = new ArrayList<Integer>();
 		
-		perm(0,0);
+		comb(0,0);
 		System.out.println(min);
 		
 	}
@@ -57,8 +57,8 @@ public class BOJ_S2_14889 {
 	
 	
 	
-	// 순열
-	static void perm(int idx, int start) {
+	// 조합
+	static void comb(int idx, int start) {
 		
 		if(idx == N/2) {			
 			for(int i=0; i<N; i++) {
@@ -97,7 +97,7 @@ public class BOJ_S2_14889 {
 		
 		for(int i=start;i<N; i++) {
 			c[i] = true;
-			perm(idx+1,i+1);
+			comb(idx+1,i+1);
 			c[i] = false;
 		}
 	}
